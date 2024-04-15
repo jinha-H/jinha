@@ -1,3 +1,4 @@
 var a;
 a = 'abc';
-var a= 'abc';
+
+var a = 'abc';
