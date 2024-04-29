@@ -1,2 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&height=130&text=Hello+Jinha&animation=blink&fontSize=80&fontAlignY=70&fontColor=f2f2f2&)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&height=130&text=Welcome👻&animation=blink&fontSize=80&fontAlignY=70&fontColor=514E72&)
+# Core JavaScript by 정재남
+2024-1 `사물인터넷` 수업에서 사용된 교재입니다.  
+`2024.03.~2024.06` 동안 진행할 **예제**에 대한 comment 입니다.
+## Ch.1
+* **1-1** 변수 선언(var)
+* **1-2** 변수 선언과 해당 변수에 데이터 할당 과정을 2줄 혹은 1줄로 표현 가능.
+* **1-3** 불변성: 기본형 데이터는 모두 불변값으로 예제와 같이 문자열 값도 한 번 만든 값을 바꿀 수 없으며, 숫자 값도 변경 불가능.
+* **1-4** 참조형 데이터 할당: identifier 영역에 data 영역의 상수 및 변수를 할당.
+* **1-5** 참조형 데이터의 property 재할당: 참조형 데이터에 할당되어 있는 데이터영역의 값을 재할당.
+* **1-6** 중첩된 참조형 데이터(객체)의 property 할당
+* **1-7** 변수 복사 비교: 기본형 데이터와 참조형 데이터의 차이 비교
+* **1-8** 변수 복사 이후 값 변경 결과 비교: 객체의 property 변경 시 기본형 데이터는 값이 달라지지만, 참조형 데이터의 값은 달라지지 않는다.
+* **1-10** 객체의 가변성에 따른 문제점: 정보를 변경하여도 두 변수가 동일하게 나오는 문제점으로 인해, 정보가 바뀐 시점에 바뀌기 전의 정보와 바뀐 후의 정보의 차이를 가시적으로 보여주는 기능은 1-10 코드에서는 어려움.
+* **1-11** 객체의 가변성에 따른 문제점 해결 방법: 변경 전과 후에 서로 다른 객체를 바라보게 하여 해결. 그러나, 대상 객체에 정보가 많을수록 변경할 정보가 많아지므로 수고가 증가할 것.
+* **1-12** 얕은 복사(기존 정보를 복사하여 새로운 객체를 반환하는 함수)
+* **1-13** 
