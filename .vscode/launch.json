@@ -7,11 +7,11 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "js 디버깅",
+            "name": "Launch Program",
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\welcome.js"
+            "program": "${workspaceFolder}\\Ch3\\3-3.js"
         }
     ]
 }
