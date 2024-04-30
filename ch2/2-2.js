@@ -7,3 +7,4 @@ function a(x) {
     console.log(x); // (3)
   }
   a(1);
+  
