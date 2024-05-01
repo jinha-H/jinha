@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&height=130&text=Welcome👻&animation=blink&fontSize=80&fontAlignY=70&fontColor=514E72&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&height=130&text=Welcome+to+Jinha's+git+hub👻&animation=blink&fontSize=50&fontAlignY=70&fontColor=51CCCC&)
 # *"Core JavaScript"* by 정재남
 2024-1 `사물인터넷` 수업에서 사용된 교재입니다.  
 `2024.03.~2024.06` 동안 진행할 **예제**에 대한 comment 입니다.
