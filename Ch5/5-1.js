@@ -6,3 +6,4 @@ var outer = function() {
     inner();
   };
   outer();
+  
